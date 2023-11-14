@@ -1,0 +1,2 @@
+crazyflie_tools:crazyswarm:externalDependencies/libobjecttracker
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/williams.6978/Desktop/crazyswarm/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/williams.6978/Desktop/crazyswarm/ros_ws/install -G Unix Makefiles
